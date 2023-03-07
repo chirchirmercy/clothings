@@ -1,0 +1,110 @@
+.A{
+    margin-left: 10%;
+    font-size: 30px;
+
+}
+.Z{
+    margin-left: 10%;
+    font-size: 20px;
+
+
+}
+.B{
+    margin-left: 10%;
+    font-size: 30px;
+}
+.set{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    margin-left: 20%;
+    margin-right: 10%;
+}
+#image1{
+    float: right;
+    width: 30%;
+}
+.Y{
+    margin-left: 10%;
+}
+.T{
+    margin-left: 10%;
+}
+.W{
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+}
+.C{
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+}
+.G{
+    margin-left: 20%;
+}
+.H{
+    margin-left: 10%;
+    margin-bottom: -20%;
+    margin-top: 5%;
+}
+.v{
+    margin-left:35% ;
+    margin-top: 2%;
+    margin-bottom: -3%;
+}
+.O{
+    margin-left: 60%;
+    margin-top: -18%;
+}
+.T{
+ margin-left: 5%;  
+ font-size: 40px; 
+}
+.X{
+    margin-left: 8%;
+}
+.AA{
+    margin-left: 6%;
+    margin-bottom: -15%;
+    font-size: 40px;
+}
+.BB{
+   margin-left: 33%; 
+}
+.CC{
+    margin-left: 20%;
+    margin-top: -20%;
+}
+.EE{
+    margin-left: 25%;
+    margin-top: -8%;
+}
+.DD{
+    margin-left: 29%;
+    margin-top: -19%;
+}
+.FF{
+    margin-left: 60%;
+    margin-top: -15%;
+}
+.WW{
+    font-size: 20PX;
+}
+.VV{
+    font-size: 20px;
+}
+.QQ{
+    font-size: 20px;
+}
+.plan{
+    color: white;
+    background-color: black;
+    border-radius:10px ;
+}
+.DA{
+    margin-left: 65%;
+    margin-top: -15%;
+}
+
+
